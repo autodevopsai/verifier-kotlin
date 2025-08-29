@@ -9,8 +9,8 @@ plugins {
     kotlin("kapt") version "2.0.0"
 }
 
-group = "com.example"
-version = "1.0-SNAPSHOT"
+group = "com.autodevops"
+version = "0.1.0"
 
 repositories {
     mavenCentral()
