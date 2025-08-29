@@ -9,7 +9,7 @@ plugins {
     kotlin("kapt") version "2.0.0"
 }
 
-group = "com.autodevops"
+group = "com.autodevops.verifier"
 version = "0.1.0"
 
 repositories {
